@@ -8,7 +8,7 @@
 ## Outcome
 
 After uploading the CSV file, it will redirect to the result page where it shows total expenses  per
-month (month appears as number format)
+month (month appears as number format). This is to note that DB is not empty.
 
 ## Delete stored data
 App's DB contents some pre stored data and to delete existing data follow the steps
@@ -19,5 +19,6 @@ App's DB contents some pre stored data and to delete existing data follow the st
 * Perform database migration; 'python3 manage.py makemigrations add' (add is the app name)
 * Finally execute 'python3 manage.py migrate'
 
- As I mentioned in my initial phone interview, I would like to explore new technologies and happy to learn so as a self learner. At first I thought to work on Java supported Play framework as my recent work/ experiences is on Java. But I considered this is an opportunity to explore Djano and have some idea on it. I feel very much happy and proud that the project (basic functionalities) has completed in a day, where I have to also read Django documentation and review Python. The project may be extended to have error checking, tabular display of result etc. But here I mainly foucsed on basic functionality and tried to finish it by a day. 
+ For the last 3-4 years, I am mostly working on Java or related technlogies. Reading the position details, I found my self excited to explore new technologies, if there is an opportunity. Instead of choosing jave based web framework, I have choosen Django/Python to explore new era and make a firm deadline of day 1/2 as not to make problem to my other daily activities.
+  I feel very much happy and proud duw to complete he project with very basic requirements within a day. There are more we can add(exception, error handling, more user friendly display or interaaction) but my goal was on very basic and must needed features. Reading Django documentation and reviewing Python with implementation make me more self confident about my quick learning attitude. Having an opportunity, I strongly believe that I will be a quick contributor as well as exploring new technologies.
 

@@ -19,6 +19,6 @@ App's DB contents some pre stored data and to delete existing data follow the st
 * Perform database migration; 'python3 manage.py makemigrations add' (add is the app name)
 * Finally execute 'python3 manage.py migrate'
 
- For the last 3-4 years, I am mostly working on Java or related technlogies. Reading the position details, I found my self excited to explore new technologies, if there is an opportunity. Instead of choosing jave based web framework, I have choosen Django/Python to explore new era and make a firm deadline of day 1/2 as not to make problem to my other daily activities.
+ For the last 3-4 years, I am mostly working on Java or related technlogies. Reading the position details, I found my self excited to explore new technologies, if there is an opportunity. Instead of choosing jave based web framework, I have choosen Django/Python to explore new era and make a firm deadline of day 1 or 2 as not to make problem to my other daily activities.
   I feel very much happy and proud duw to complete he project with very basic requirements within a day. There are more we can add(exception, error handling, more user friendly display or interaaction) but my goal was on very basic and must needed features. Reading Django documentation and reviewing Python with implementation make me more self confident about my quick learning attitude. Having an opportunity, I strongly believe that I will be a quick contributor as well as exploring new technologies.
 

@@ -16,4 +16,5 @@ App's DB contents some pre stored data and to delete existing data follow the st
 * 'drop table add_employee'
 * 'drop table add_taxinfo;
 * 'drop table add_expenses'
-*
+* Perform database migration; 'python manage.py makemigrations add' (add is the app name)
+* Finally execute 'python manage.py migrate'
